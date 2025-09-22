@@ -1,5 +1,8 @@
 # The-Dice-Game
 
+Live => 
+https://friendly-shortbread-0780c8.netlify.app/
+
 Description
 
 This is a simple dice roller web application. It simulates rolling two dice and displays their individual values and total sum. The project uses HTML, CSS, and JavaScript, with SVG images for the dice and a PNG for the title.
@@ -17,5 +20,4 @@ Features
 > Uses SVG images for dice and PNG for the title for visual appeal
 
 > Lightweight and responsive design
-Live => 
-https://friendly-shortbread-0780c8.netlify.app/
+
