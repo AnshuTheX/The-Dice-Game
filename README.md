@@ -17,3 +17,5 @@ Features
 > Uses SVG images for dice and PNG for the title for visual appeal
 
 > Lightweight and responsive design
+Live => 
+https://friendly-shortbread-0780c8.netlify.app/
